@@ -1,0 +1,6 @@
+root@machine1:~/myproject# git log
+root@machine1:~/myproject# git log
+root@machine1:~/myproject# git log
+hello.txt
+*.log
+test/
